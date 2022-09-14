@@ -1,5 +1,5 @@
 {
-    "name": "laravel/passport",
+    "name": "B5Digital/passport",
     "description": "Laravel Passport provides OAuth2 server support to Laravel.",
     "keywords": ["laravel", "passport", "oauth"],
     "license": "MIT",
@@ -9,8 +9,8 @@
     },
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "B5Digital",
+            "email": "alex@b5digital.dk"
         }
     ],
     "require": {
@@ -24,13 +24,13 @@
         "illuminate/cookie": "^6.18.31|^7.22.4",
         "illuminate/database": "^6.18.31|^7.22.4",
         "illuminate/encryption": "^6.18.31|^7.22.4",
-        "illuminate/http": "^6.18.31|^7.22.4",
+        "illuminate/http": "^7.5.0",
         "illuminate/support": "^6.18.31|^7.22.4",
         "laminas/laminas-diactoros": "^2.2",
         "lcobucci/jwt": "^3.4|^4.0",
         "league/oauth2-server": "^8.2.3",
         "nyholm/psr7": "^1.0",
-        "phpseclib/phpseclib": "^2.0",
+        "phpseclib/phpseclib": "^3.0",
         "symfony/psr-http-message-bridge": "^2.0"
     },
     "require-dev": {
